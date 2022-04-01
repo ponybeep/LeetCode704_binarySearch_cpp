@@ -1,0 +1,2 @@
+# LeetCode704_binarySearch_cpp
+力扣第704题cpp代码，两种实现方式，二分查找缩小上下限及STL解题，附带测试代码
